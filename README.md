@@ -24,7 +24,7 @@ Tout simplement parce que mon pote était sous ESX, je n'ai pas le temps d'adapt
 I remade this script by taking example from this: https://github.com/qalle-fivem/esx_doorlock 
 
 **Installation:**
-Just Drag and drop the file into your resources.
+Just Drag and drop the file into your resources and add it into ur server.cfg start.
 
 **Add new Door**
 To add a new door all you need to do is go on the config file
@@ -35,7 +35,7 @@ then add a new location, take the example of what's done by replacing the locati
 J'ai refait ce script en prenant exemple sur ceci: https://github.com/qalle-fivem/esx_doorlock
 
 **Installation:**
-Il suffit de glisser-déposer le fichier dans vos ressources.
+Il suffit de glisser-déposer le fichier dans vos ressources puis d'ajouté a votre server.cfg.
 
 **Ajouter une nouvelle Porte**
 Pour ajouter une nouvelle porte, il suffit d’utiliser le fichier config
